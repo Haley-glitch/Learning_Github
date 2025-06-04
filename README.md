@@ -11,7 +11,6 @@ This practice repo was created while following this excellent video:
 [Git & GitHub Crash Course – freeCodeCamp](https://youtu.be/RGOj5yH7evk?feature=shared)
 
 ## Basic Git Commands (Terminal)
-### Basic Git Commands (Terminal)
 
 ```bash
 git clone <repository-url>  # Clone a repository into a new directory
